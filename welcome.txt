@@ -1,0 +1,15 @@
+Information Engineering
+
+Information Engineering is a field of study that combines computer science, software engineering, and information systems to design, develop, and manage complex data systems and technologies.
+
+It focuses on the efficient handling, processing, and storage of information to support decision-making, automation, and innovation in various industries.
+
+Key topics in Information Engineering include:
+- Programming and software development
+- Databases and data management
+- Computer networks
+- Artificial intelligence and machine learning
+- Cybersecurity
+- Systems analysis and design
+
+Graduates in this field are equipped to work as software engineers, system architects, data analysts, and IT consultants in both the private and public sectors.
